@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6l0017/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 雜阿毘曇心論
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T28/T28n1552.xml
+    old_id: T28n1552
+hash: sha256:1072cb28e8479600f3049fae253911eb7df41fb7ef98ff0de6cd80898c47836d
